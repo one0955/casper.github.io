@@ -9,7 +9,7 @@ description: Kim Gwang Won 2019312751
 
 remote_theme : hugocarreira/jekyll-vision-casper-theme
 
-baseurl: 
+baseurl: /casper
 url: https://one0955.github.io/casper
 twitter_username: one0955
 github_username: one0955
